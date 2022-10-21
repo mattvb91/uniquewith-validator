@@ -1,3 +1,4 @@
+# THIS IS NOT MAINTAINED. THIS IS JUST TO GET THE LARAVEL 9 UPDATE WORKING. SEE https://github.com/mattvb91/uniquewith-validator/commit/ba133e734ca8e71f4218f0e1db88a1bbc5a583e7 DUE TO THE MAINTAINER ABANDONING THE PACKAGE.
 # unique_with Validator Rule For Laravel
 
 [![Build Status](https://travis-ci.org/felixkiss/uniquewith-validator.svg?branch=master)](https://travis-ci.org/felixkiss/uniquewith-validator)
@@ -14,7 +15,7 @@ Install the package through [Composer](http://getcomposer.org).
 On the command line:
 
 ```
-composer require felixkiss/uniquewith-validator
+composer require mattvb91/uniquewith-validator
 ```
 
 ## Configuration

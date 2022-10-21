@@ -1,5 +1,5 @@
 {
-    "name": "felixkiss/uniquewith-validator",
+    "name": "mattvb91/uniquewith-validator",
     "description": "Custom Laravel Validator for combined unique indexes",
     "keywords": [
         "laravel"
